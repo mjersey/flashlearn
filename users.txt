@@ -1,0 +1,5 @@
+kobe1,kobe@student.fatima.edu.ph,Kobe@123,profile_pictures\kobe1.jpg
+shirls,ysvilladelgado@gmail.com,Olfu@1234
+kobeboy,melodyjaymeeajajersey@gmail.com,Olfu@1234
+shirlz,mjjersey06@gmail.com,Schey@1234,profile_pictures\shirlz.jpg
+shirlz,mjjersey06@gmail.com,Schey@1234,profile_pictures\shirlz.jpg
